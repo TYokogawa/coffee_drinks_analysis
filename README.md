@@ -1,3 +1,5 @@
 # coffee_drinks_analysis
- Amazon review data
- Twitter data
+ Amazon coffee reviews analysis
+http://tyokogawa.github.io/blog/Coffee_review_analysis_topic_modeling/
+
+
